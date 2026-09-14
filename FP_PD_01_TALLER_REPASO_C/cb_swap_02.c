@@ -12,7 +12,7 @@ void swap(int *ptrX, int *ptrY){
     printf("\n Intercambaidos%d, ", *ptrX);
     printf("%d", *ptrY);
 }
-
+    
 int main(){
     
     int x=52;

@@ -1,5 +1,5 @@
 /**
- * @file cb_prime_num_01.c
+ * @file cb_mayor_menor_03.c
  * @brief Determinar el mayor y menor de tres numeros.
  * @author Viviana Jimenez
  * @date 11-09-2026
