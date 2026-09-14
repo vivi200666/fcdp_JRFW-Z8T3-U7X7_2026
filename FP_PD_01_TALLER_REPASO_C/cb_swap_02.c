@@ -1,0 +1,26 @@
+/**
+ * @file cb_swap_02.c
+ * @brief Intercambiar valores de dos enteros usando punteros.
+ * @author Viviana Jimenez
+ * @date 11-09-2026
+*/
+#include <stdio.h>
+void swap(int *ptrX, int *ptrY){
+    int z=*ptrX;
+    *ptrX=*ptrY;
+    *ptrY = z;
+    printf("\n Intercambaidos%d, ", *ptrX);
+    printf("%d", *ptrY);
+}
+
+int main(){
+    
+    int x=52;
+    int y=23;
+    int *ptr_x=&x;
+    int *ptr_y=&y;
+    printf("Orden inicial %d, ",*ptr_x);
+    printf("%d",*ptr_y);
+    swap(ptr_x, ptr_y);
+    return 0;
+}
