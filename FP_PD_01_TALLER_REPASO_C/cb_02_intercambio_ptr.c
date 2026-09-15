@@ -1,8 +1,8 @@
 /**
- * @file cb_swap_02.c
+ * @file cb_02_intercambio_ptr.c
  * @brief Intercambiar valores de dos enteros usando punteros.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 void swap(int *ptrX, int *ptrY){

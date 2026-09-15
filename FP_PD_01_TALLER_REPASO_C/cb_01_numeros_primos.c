@@ -1,8 +1,8 @@
 /**
- * @file cb_prime_num_01.c
+ * @file cb_01_numeros_primos.c
  * @brief Generar un arreglo de numeros aleatorios y contar cuantos son primos.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 #include <stdlib.h>

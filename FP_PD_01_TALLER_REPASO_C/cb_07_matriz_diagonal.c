@@ -1,8 +1,8 @@
 /**
- * @file cb_matrix_diagonal_07.c
+ * @file cb_07_matriz_diagonal.c
  * @brief Crear una matrix cuadrada con numeros aleatorios y comparar diagonales.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 #include <stdlib.h>

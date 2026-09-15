@@ -1,8 +1,8 @@
 /**
- * @file cb_arreglo_dinamico_09.c
+ * @file cb_09_arreglo_dinamico.c
  * @brief Crear un arreglo dinamico, llenarlo con valores del usuario y calcular su suma.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 #include <stdlib.h>

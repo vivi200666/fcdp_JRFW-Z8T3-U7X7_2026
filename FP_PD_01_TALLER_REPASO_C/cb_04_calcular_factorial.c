@@ -1,8 +1,8 @@
 /**
- * @file cb_factorial_04.c
+ * @file cb_04_calcular_factorial.c
  * @brief Calcular el factorial de un numero y verificar si es par o impar.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 
 #include <stdio.h>

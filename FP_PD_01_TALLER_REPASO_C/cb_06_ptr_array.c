@@ -1,9 +1,9 @@
 
 /**
- * @file cb_ptr_array_06.c
+ * @file cb_06_ptr_array.c
  * @brief Invertir los elementos de un arreglo usando aritm´etica de punteros.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 void array_inverso(int *array,int size){

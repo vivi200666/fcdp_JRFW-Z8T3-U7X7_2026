@@ -1,8 +1,8 @@
 /**
- * @file cb_notas_08.c
+ * @file cb_08_notas.c
  * @brief Determinar el mayor y menor de tres numeros.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 

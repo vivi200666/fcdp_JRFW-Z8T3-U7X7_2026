@@ -1,8 +1,8 @@
 /**
- * @file cb_arreglo_dinamico_09.c
- * @brief Crear un arreglo dinamico, llenarlo con valores del usuario y calcular su suma.
+ * @file cb_10_estructura_estudiantes.c
+ * @brief Implementar un sistema de gesti´on de estudiantes usando estructuras.
  * @author Viviana Jimenez
- * @date 11-09-2026
+ * @date 2026-09-11
 */
 #include <stdio.h>
 #include <stdlib.h>
