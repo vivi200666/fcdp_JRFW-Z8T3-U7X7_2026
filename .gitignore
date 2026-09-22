@@ -1,0 +1,8 @@
+# Ejecutables de Windows
+*.exe
+
+# Ejecutables de Linux/WSL de estos talleres
+primes_number_paralle
+primes_number_parallel
+primes_number_sequential
+primes_number_sequential1
